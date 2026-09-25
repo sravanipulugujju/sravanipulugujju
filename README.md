@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sravani 👋
 
-<!--
-**sravanipulugujju/sravanipulugujju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | SQL | Python | Power BI | Tableau | Excel
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MCA graduate interested in Data Analytics and Business Intelligence.
+
+## Skills
+
+- SQL
+- Python
+- Power BI
+- Tableau
+- Excel
